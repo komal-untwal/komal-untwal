@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as graduate research assistant @NJIT
 - 🌱 I’m currently learning core concepts in Data Science & Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning/Web development projects.
